@@ -122,10 +122,9 @@ In this step will see the result from changing the Group Policy.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/4ea5c63e-0b0d-4ef4-bed4-54d592ecfb81)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Back in dc-1, go to "Active Directory Users and Computers" --> "mydomain.com" --> "Computers" to see client-1 joined to the domain.
+In this final step, a user named "caw.noki" fails to log in and receives an error message. On the admin's side (dc-1), can unlock their account by finding their name from the _EMPLOYEES list. Can click to show "(name) Properties." Then go to the account and check the box to Unlock the account under this user. To reset password instead, 1) can right-click the user's name to see options. 2) Clicking on the option "Reset Password" will lead to a Reset Password window. There, 3) can input a new password and 4) unlock the user's account. Once click "Ok," the user can sign in with the new password.
 </p>
 <br />
